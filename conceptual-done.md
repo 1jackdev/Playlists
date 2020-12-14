@@ -4,8 +4,10 @@ Answer the following questions below:
 
 - What is PostgreSQL?
 PostgreSQL is a relational database management system that works with SQL.
+
 - What is the difference between SQL and PostgreSQL?
 While PostgreSQL is the database management system, SQL is the actual language used to manage the database.
+
 - In `psql`, how do you connect to a database?
 \c <DATABASE NAME>;
 
